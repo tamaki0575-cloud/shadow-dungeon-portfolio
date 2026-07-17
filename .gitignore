@@ -12,8 +12,10 @@
 
 !assets/
 !assets/architecture-diagram.png
+!assets/architecture-diagram.svg
 !assets/screenshots/
 !assets/screenshots/README.md
+!assets/screenshots/title-screen.png
 
 !resume/
 !resume/project-description.md

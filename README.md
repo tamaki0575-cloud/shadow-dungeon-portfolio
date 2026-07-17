@@ -100,6 +100,12 @@ Inheritance captures genuinely shared behaviour, while room composition and util
 - [Resume Project Description](resume/project-description.md)
 - [Screenshot Guidance](assets/screenshots/README.md)
 
+## Screenshot
+
+![Sanitised Shadow Dungeon title screen](assets/screenshots/title-screen.png)
+
+This application-only crop shows the running game while excluding the window title bar, local paths, student identifiers, submission metadata, configuration files, and source code.
+
 ## Future Improvements
 
 - Replace central conditional state switching with a `GameState` abstraction and explicit transition API.
@@ -109,7 +115,7 @@ Inheritance captures genuinely shared behaviour, while room composition and util
 - Add unit tests for movement, collision outcomes, cooldowns, rewards, and state transitions.
 - Add integration tests around complete room progression and restart behaviour.
 - Profile collision checks and introduce spatial partitioning only if larger levels make it necessary.
-- Add accessibility settings, audio, save-state support, and additional enemy behaviours.
+- Add accessibility settings, audio, save-state support, additional enemy behaviours, and a sanitised gameplay sequence.
 
 ## Public Release Checklist
 
@@ -140,4 +146,3 @@ Inheritance captures genuinely shared behaviour, while room composition and util
 > The complete source code is not publicly available due to university academic integrity requirements. This repository demonstrates the project's architecture, engineering decisions, and implementation experience.
 
 No assignment specification, starter code, submission metadata, student identifier, course script, runtime configuration, or original game asset is included in this repository.
-

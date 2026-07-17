@@ -1,6 +1,8 @@
-# Screenshot Placeholders
+# Screenshots
 
-Add portfolio screenshots here only after confirming that every visible sprite, background, font, and other asset is original or licensed for public distribution.
+`title-screen.png` is an application-only crop captured from a local run. It excludes the window title bar, local paths, source code, configuration, student identity, and submission metadata; it does not distribute the underlying asset files.
+
+Before wider reuse or redistribution, confirm any publication conditions that apply to visible sprites, backgrounds, fonts, and other assets.
 
 Suggested captures:
 
@@ -14,6 +16,4 @@ Recommended format:
 - Crop student identifiers, development paths, IDE windows, debug overlays, and assessment text.
 - Add one concise caption per image in the main README.
 - Do not upload original course asset files as part of producing the screenshots.
-
-Until publication rights are confirmed, keep this directory as documentation only.
 
