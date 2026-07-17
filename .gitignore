@@ -1,0 +1,19 @@
+# This public portfolio is documentation-only.
+# Deny everything, then allow only explicitly reviewed files.
+*
+
+!.gitignore
+!README.md
+
+!docs/
+!docs/architecture-overview.md
+!docs/code-quality-review.md
+!docs/design-decisions.md
+
+!assets/
+!assets/architecture-diagram.png
+!assets/screenshots/
+!assets/screenshots/README.md
+
+!resume/
+!resume/project-description.md
